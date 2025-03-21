@@ -1,17 +1,37 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Portfólio
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+> Um projeto de portfólio desenvolvido utilizando HTML, CSS e Flexbox.
 
-## Ferramentas utilizadas:
+Este projeto tem como objetivo apresentar um portfólio pessoal de forma visualmente atrativa e responsiva.
 
-* HTML
+## 📋 Tecnologias Utilizadas
 
-* CSS
+- **HTML** - Estrutura da página
+- **CSS** - Estilização e layout
+- **Flexbox** - Para alinhamento responsivo e flexível dos elementos
 
-* Flex-box
+## 📁 Estrutura do Projeto
 
-## Feito por:
+- `index.html` - Página principal do portfólio
+- `about.html` - Página sobre
+- `assets/` - Recursos como imagens e ícones
+- `styles/` - Arquivos CSS para estilização
 
-### Álex Buracosky
+## ⚙️ Como Executar o Projeto
 
-### Linkedin: https://www.linkedin.com/in/alexburacosky/
+1. Clone este repositório:
+   ```sh
+   git clone https://github.com/seu-usuario/portfolio.git
+   ```
+2. Abra o arquivo `index.html` em um navegador.
+
+## 📈 Melhorias Futuras
+
+- Adicionar uma seção de projetos com interatividade
+- Implementar animações CSS para uma melhor experiência do usuário
+- Criar uma versão responsiva para dispositivos móveis
+
+---
+
+Feito com ❤️ para mostrar seus melhores trabalhos!
+
