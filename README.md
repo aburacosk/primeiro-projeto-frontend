@@ -1,5 +1,7 @@
 # Portfólio
 
+![alt text](image.png)
+
 > Um projeto de portfólio desenvolvido utilizando HTML, CSS e Flexbox.
 
 Este projeto tem como objetivo apresentar um portfólio pessoal de forma visualmente atrativa e responsiva.
@@ -30,8 +32,3 @@ Este projeto tem como objetivo apresentar um portfólio pessoal de forma visualm
 - Adicionar uma seção de projetos com interatividade
 - Implementar animações CSS para uma melhor experiência do usuário
 - Criar uma versão responsiva para dispositivos móveis
-
----
-
-Feito com ❤️ para mostrar seus melhores trabalhos!
-
